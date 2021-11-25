@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Valean_dashboard/static/css/main.a4f1162e.chunk.css",
+    "main.js": "/Valean_dashboard/static/js/main.a02e6a54.chunk.js",
+    "main.js.map": "/Valean_dashboard/static/js/main.a02e6a54.chunk.js.map",
+    "runtime-main.js": "/Valean_dashboard/static/js/runtime-main.c040ffd6.js",
+    "runtime-main.js.map": "/Valean_dashboard/static/js/runtime-main.c040ffd6.js.map",
+    "static/css/2.f69cf68e.chunk.css": "/Valean_dashboard/static/css/2.f69cf68e.chunk.css",
+    "static/js/2.e3b9765f.chunk.js": "/Valean_dashboard/static/js/2.e3b9765f.chunk.js",
+    "static/js/2.e3b9765f.chunk.js.map": "/Valean_dashboard/static/js/2.e3b9765f.chunk.js.map",
+    "index.html": "/Valean_dashboard/index.html",
+    "static/css/2.f69cf68e.chunk.css.map": "/Valean_dashboard/static/css/2.f69cf68e.chunk.css.map",
+    "static/css/main.a4f1162e.chunk.css.map": "/Valean_dashboard/static/css/main.a4f1162e.chunk.css.map",
+    "static/js/2.e3b9765f.chunk.js.LICENSE.txt": "/Valean_dashboard/static/js/2.e3b9765f.chunk.js.LICENSE.txt",
+    "static/media/argon-react-white.png": "/Valean_dashboard/static/media/argon-react-white.e4dd3b41.png",
+    "static/media/argon-react.png": "/Valean_dashboard/static/media/argon-react.128d71d3.png",
+    "static/media/all.min.css": "/Valean_dashboard/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/notifications.css": "/Valean_dashboard/static/media/notification.c5d9251e.ttf",
+    "static/media/nucleo.css": "/Valean_dashboard/static/media/nucleo-icons.d6a66724.ttf",
+    "static/media/profile-cover.jpg": "/Valean_dashboard/static/media/profile-cover.97899245.jpg",
+    "static/media/team-1-800x800.jpg": "/Valean_dashboard/static/media/team-1-800x800.fa5a7ac2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c040ffd6.js",
+    "static/css/2.f69cf68e.chunk.css",
+    "static/js/2.e3b9765f.chunk.js",
+    "static/css/main.a4f1162e.chunk.css",
+    "static/js/main.a02e6a54.chunk.js"
+  ]
+}
